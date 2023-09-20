@@ -20,8 +20,8 @@
 
 <h3 align="center"> 🎀 Me 🎀 </h3>
 <p align="center">
-  <a href="https://gsunnny.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://gsunnny.tistory.com/"/></a>&nbsp
-  <a href="mailto:jsjh5934@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsjh5934@naver.com"/></a>
+  <a href="https://gsunnny.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://gsunnny.tistory.com/"/></a>&nbsp
+  <a href="mailto:jsjh5934@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=jsjh5934@naver.com"/></a>
 </p>
 <br>
 
